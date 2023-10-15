@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "758152279422",
+    "project_id": "hiredup-85d02",
+    "storage_bucket": "hiredup-85d02.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:758152279422:android:cad9d84849a5919a0aaf2f",
+        "android_client_info": {
+          "package_name": "com.flutterflow.HireUp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0W0dhm4_A7X3cHtbSvyT23oH2nzky4sw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:758152279422:android:bf24f0e8492594600aaf2f",
+        "android_client_info": {
+          "package_name": "com.flutterflow.HiredUp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0W0dhm4_A7X3cHtbSvyT23oH2nzky4sw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
